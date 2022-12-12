@@ -4,7 +4,6 @@ export default function Layout({ children }) {
     <section style={{display:"flex", flexDirection:"column", alignItems: "center", marginBlock: "5vh"}}>
       {children}
     </section>
-    <footer>Productos</footer>
     </>
   )
 }
